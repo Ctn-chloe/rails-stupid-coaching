@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+div {
+  margin-left: 20px;
+}
+#coach {
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
